@@ -1,8 +1,7 @@
 # SQL-AND-R-ETL-Project-Electricity-load-data-Wharehousing-and-Advanced time series forecasting 
 
-Built and automated ETL pipeline using SQL, r, postgres, and pg admin and forecased electricity usage.
+**Understanding the Project: ETL, Forecasting, and SQL**
 
-##Understanding the Project: ETL, Forecasting, and SQL
 **Project Goal:**
 
 To build an automated ETL pipeline, perform data analysis, and forecast electricity usage using SQL, R, PostgreSQL, and pgAdmin.
