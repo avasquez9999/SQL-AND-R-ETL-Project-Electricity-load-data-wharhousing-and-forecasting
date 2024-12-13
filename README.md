@@ -8,20 +8,20 @@ To build an automated ETL pipeline, perform data analysis, and forecast electric
 
 **Key Steps and skills:**
 
-Data Extraction:
+**Data Extraction:**
 
 Source: Identify the source of your electricity load data. This could be a CSV file, a database, or an API.
 Extraction Method: Use appropriate tools and techniques to extract the data. For example, use R packages like readr or DBI to read CSV files or connect to databases.
 Data Transformation:
 
-Cleaning:
+**Cleaning:**
 
 Handle missing values, outliers, and inconsistencies in the data.
 Feature Engineering: Create relevant features like time-based features (hour, day, month, year), lagged values, and rolling averages.
 Data Integration: If necessary, integrate data from multiple sources.
 Data Loading:
 
-Database Design: 
+**Database Design:** 
 
 Create a suitable database schema in PostgreSQL to store the cleaned and transformed data.
 Loading: Use SQL's INSERT INTO or COPY commands to load the data into the database.
@@ -32,13 +32,13 @@ Use SQL queries to explore the data, identify patterns, and gain insights.
 Visualize the data using tools like ggplot2 in R or SQL's built-in plotting capabilities.
 Calculate summary statistics, analyze trends, and identify anomalies.
 
-Forecasting:
+**Forecasting**:
 
 Use time series forecasting techniques in R (e.g., ARIMA, EST) to predict future electricity usage.
 Consider incorporating external factors like weather data, economic indicators, and historical trends.
 Evaluate the accuracy of the forecasts using appropriate metrics.
 
-Data Visualization:
+**Data Visualization:**
 
 Use visualization tools like ggplot2 or plotly in R to create informative visualizations of the data and forecasts.
 SQL and R Code Examples:
