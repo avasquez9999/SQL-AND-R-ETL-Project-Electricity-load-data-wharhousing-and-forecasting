@@ -1,6 +1,6 @@
 # SQL-AND-R-ETL-Project-Electricity-load-data-Wharehousing-and-Advanced time series forecasting 
 
-**Understanding the Project: ETL, Forecasting, and SQL**
+
 
 **Project Goal:**
 
